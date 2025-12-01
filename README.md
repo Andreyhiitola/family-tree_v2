@@ -1,4 +1,5 @@
 # famaly-tree_v2
+<<<<<<< HEAD
 https://github.com/Andreyhiitola/famaly.tree_v2
  Тестирование:
 
@@ -8,6 +9,10 @@ https://github.com/Andreyhiitola/famaly.tree_v2
 Должна открыться Google Maps с маркерами!
 
 Вставь свой API ключ и протестируй! 🚀
+
+https://github.com/Andreyhiitola/family.tree_v2
+
+
 # 📊 Работа с Excel - Полная инструкция
 
 ## 🔄 Импорт и Экспорт данных
