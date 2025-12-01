@@ -2,6 +2,7 @@
 # Зайди в папку проекта
 cd /home/andy/family-tree
 
+pkill -f http.server
 # Python 3
 python3 -m http.server 8700
 
