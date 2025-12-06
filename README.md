@@ -1,6 +1,5 @@
 # famaly-tree_v2
-<<<<<<< HEAD
-https://github.com/Andreyhiitola/famaly.tree_v2
+https://andreyhiitola.github.io/family-tree_v2/
  Тестирование:
 
 Вставь свой API ключ
